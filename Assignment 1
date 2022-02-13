@@ -1,4 +1,4 @@
-Write a program to to prepare super market bill?
+#Write a program to to prepare super market bill?
 rg=90
 bg=100
 cd=95
@@ -37,4 +37,4 @@ else:
      print('invalid coupon')
      tax=bill*18/100
 mainbill=bill-dis+tax
-print('Bill amount:',mainbill)      
+print('Bill amount:',mainbill)

@@ -1,0 +1,10 @@
+#Write a program to compare two numbers?
+a=int(input('enter 1st number:'))
+b=int(input('enter 2nd number:'))
+if a==b:
+   print('EQUAL')
+elif a>b:
+   print('a is greater')
+else:
+   print('b is greater')
+   print('a is not equal to b')
